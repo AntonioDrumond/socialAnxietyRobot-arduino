@@ -11,4 +11,7 @@
 + I did some research to learn more about the ultrassonic sensor, and then tested my sketch on TinkerCAD, making the necessary alterations to my code.
 + After making sure the basic concept worked, it was time to get my hands dirty and build my project with my physical arduino kit
 
-### UNDER CONSTRUCTION...
+### Final Product
++ [Project Video](https://youtu.be/Ph2GAeHxKao)
++ Basically the ultrassonic sensor detects when anything gets close, and activates the buzzer.
++ If anything gets past the last threshhold, the servo motor activates and pulls the GND cable, deactivating the whole system.
